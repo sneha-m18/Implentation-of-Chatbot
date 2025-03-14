@@ -1,2 +1,2 @@
 # Implentation-of-Chatbot
-Chatbot implementation using NLP
+Chatbot implementation using Natural Language Processing(NLP)
